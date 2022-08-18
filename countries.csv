@@ -1,0 +1,36 @@
+,country,1st cases,max incidence,missing dates,length
+0,Andorra,1 ,1 ERR,20 WARN,0 
+1,Austria,1 ,9 ERR,28 WARN,0 
+2,Belgium,1 ,19 WARN,5 WARN,28 
+3,Bosnia and Herzegovina,1 ,1 ERR,0 ,0 
+4,Bulgaria,1 ,1 ERR,30 WARN,0 
+5,Croatia,1 ,3 ERR,27 WARN,0 
+6,Cyprus,1 ,1 ERR,0 ,0 
+7,Czechia,1 ,2 ERR,70 WARN,0 
+8,Denmark,1 ,7 ERR,35 WARN,0 
+9,Estonia,1 ,2 ERR,30 WARN,0 
+10,Finland,1 ,3 ERR,48 WARN,0 
+11,France,1 ,106 ,3 WARN,42 
+12,Georgia,1 ,1 ERR,0 ,0 
+13,Germany,1 ,87 ,9 WARN,28 
+14,Greece,1 ,5 ERR,36 WARN,0 
+15,Hungary,1 ,3 ERR,32 WARN,0 
+16,Iceland,2 WARN,2 ERR,39 WARN,0 
+17,Ireland,1 ,6 ERR,31 WARN,0 
+18,Israel,1 ,9 ERR,33 WARN,0 
+19,Italy,1 ,20 WARN,43 WARN,28 
+20,Latvia,1 ,1 ERR,50 WARN,0 
+21,Lithuania,1 ,1 ERR,2 WARN,0 
+22,Luxembourg,1 ,4 ERR,32 WARN,0 
+23,Malta,1 ,2 ERR,56 WARN,0 
+24,Netherlands,1 ,32 ,13 WARN,42 
+25,Norway,1 ,4 ERR,34 WARN,0 
+26,Poland,1 ,5 ERR,38 WARN,0 
+27,Portugal,1 ,18 WARN,10 WARN,28 
+28,Romania,1 ,3 ERR,39 WARN,0 
+29,Slovakia,1 ,1 ERR,23 WARN,0 
+30,Slovenia,1 ,3 ERR,45 WARN,0 
+31,Spain,1 ,131 ,3 WARN,56 
+32,Sweden,1 ,6 ERR,35 WARN,0 
+33,Switzerland,1 ,13 WARN,9 WARN,14 WARN
+34,United Kingdom,1 ,70 ,8 WARN,28 
