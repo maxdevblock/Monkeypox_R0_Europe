@@ -1,10 +1,10 @@
 country,1st cases,max incidence,length
-Belgium,1 ,17 WARN,67 
-France,1 ,42 ,126 
-Germany,1 ,46 ,36 
-Italy,1 ,15 WARN,73 
-Netherlands,1 ,19 WARN,53 
-Portugal,1 ,13 WARN,33 
-Spain,1 ,81 ,49 
-Switzerland,1 ,11 WARN,50 
-United Kingdom,1 ,62 ,100 
+Belgium,1 ,17 WARN,60 
+France,1 ,74 ,46 
+Germany,1 ,65 ,43 
+Italy,1 ,15 WARN,37 
+Netherlands,1 ,19 WARN,54 
+Portugal,1 ,16 WARN,48 
+Spain,1 ,79 ,49 
+Switzerland,1 ,11 WARN,44 
+United Kingdom,1 ,51 ,93 
